@@ -1,0 +1,4 @@
+interface:
+  display_name: "风哥PDF原版中文翻译"
+  short_description: "将英文或西班牙语 PDF 按原版式稳定翻译为简体中文文档"
+  default_prompt: "Use $translate-pdf-to-zh to translate this English or Spanish PDF into Chinese while preserving its visual layout."

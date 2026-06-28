@@ -1,0 +1,11 @@
+.analysis/
+output/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pdf2zh-cache.json
+*.pdf2zh-report.json
+*.pdf2zh-work/
+dist/
+build/
+*.egg-info/
